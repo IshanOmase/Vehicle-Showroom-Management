@@ -1,0 +1,15 @@
+String chasisNo, String company, String date, String color, double price
+mh-1001 BMW 2022-10-01 Black 3000000
+mh-1002 Audi 2022-08-01 Blue 4500000
+mh-1003 KTM 2022-09-01 Burgandy 5000000
+mh-1004 Masaratti 2023-10-01 Silver 6000000
+mh-1005 Jaguar 2023-01-01 White 5400000
+mh-1006 Bentley 2023-01-01 Silver 50000000
+mh-1007 Cadilac 2023-08-01 White 40000000
+mh-1008 Volkswagen 2023-09-01 Silver 4500000
+mh-1009 Tesla 2023-06-01 Black 7400000
+mh-1010 Volvo 2022-05-01 White 9000000
+mh-1011 Lincoln 2023-04-01 Silver 9500000
+mh-1012 Porsche 2023-03-20 Burgandy 59500000
+mh-1005 Lamborghini 2022-01-15 Blue 45000000
+mh-1005 Lexus 2023-02-10 Blue 15000000
