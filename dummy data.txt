@@ -1,4 +1,7 @@
+You can enter the below given data accordingly and check out the code on your devices:
+Note: The data is arranged according to the Constructor used in the code.
 String chasisNo, String company, String date, String color, double price
+
 mh-1001 BMW 2022-10-01 Black 3000000
 mh-1002 Audi 2022-08-01 Blue 4500000
 mh-1003 KTM 2022-09-01 Burgandy 5000000
